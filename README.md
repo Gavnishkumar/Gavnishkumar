@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gavnish Kumar</h1>
 <h3 align="center">Crafting immersive web experiences with MERN magic ✨</h3>
-<p align="right"></p><img align="right" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw227jauCDo2D04_S0mhKQ1F&ust=1712419746075000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiegem6q4UDFQAAAAAdAAAAABAE](https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)"></p>
+<p align="right"></p><img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavnishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="gavnishkumar" /> </p>
 
 
