@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gavnish Kumar</h1>
 <h3 align="center">Crafting immersive web experiences with MERN magic ✨</h3>
-<img align="right" width="400" src="https://i.gifer.com/JXA0.gif" alt="coding"/>
+<p align="right"></p><img align="right" width="400" src="https://i.gifer.com/JXA0.gif" alt="coding"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavnishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="gavnishkumar" /> </p>
 
 
