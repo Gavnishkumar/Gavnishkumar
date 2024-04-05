@@ -1,4 +1,4 @@
-![logo]([https://github.com/Gavnishkumar/Gavnishkumar/blob/main/profileBack.gif](https://github.com/Gavnishkumar/Gavnishkumar/blob/main/profileBack%20(1).gif))
+![logo](https://github.com/Gavnishkumar/Gavnishkumar/blob/main/profileBack%20(1).gif)
 <h1 align="center">Hi 👋, I'm Gavnish Kumar</h1>
 <h3 align="center">Crafting immersive web experiences with MERN magic ✨</h3>
 <p align="right"></p><img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding"></p>
