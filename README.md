@@ -2,7 +2,6 @@
 <h3 align="center">Crafting immersive web experiences with MERN magic ✨</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavnishkumar" alt="gavnishkumar" /></a> </p>
 
 - 🔭 I’m currently working on **PlayWithAI**
 
