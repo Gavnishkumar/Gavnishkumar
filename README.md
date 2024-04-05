@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gavnish Kumar</h1>
 <h3 align="center">Crafting immersive web experiences with MERN magic ✨</h3>
-<img align="right" src="https://i.gifer.com/JXA0.gif" alt="coding">
+<img align="right" width="400" src="https://i.gifer.com/JXA0.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gavnishkumar&label=Profile%20views&color=0e75b6&style=flat" alt="gavnishkumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavnishkumar" alt="gavnishkumar" /></a> </p>
