@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gk991789@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/drive/u/0/folders/1mrrTPu8oxRb6eqPfBQbyRpU7UJoRSe1m](https://drive.google.com/drive/u/0/folders/1mrrTPu8oxRb6eqPfBQbyRpU7UJoRSe1m](https://drive.google.com/file/d/1fdbNJyMiUvPCWk_yAmau8VNlOta7JbxF/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fdbNJyMiUvPCWk_yAmau8VNlOta7JbxF/view?usp=sharing](https://drive.google.com/file/d/1fdbNJyMiUvPCWk_yAmau8VNlOta7JbxF/view?usp=sharing/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
